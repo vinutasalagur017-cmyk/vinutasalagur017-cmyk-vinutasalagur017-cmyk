@@ -15,7 +15,7 @@ I'm an Information Science & Engineering student at VTU who learns by building c
 | 🎓 **Studying** | BE in Information Science & Engineering (VTU) |
 | 🔨 **Building** | Local RAG assistants and semantic search tools |
 | 🌱 **Learning** | LLM apps, retrieval pipelines, system design |
-| 📫 **Reach me** | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_ID) · [Email](mailto:your@email.com) |
+| 📫 **Reach me** | [LinkedIn](https://linkedin.com/in/vinutasalagur) · [Email](mailto:vinutasalagur017@gmail.com) |
 
 ---
 
@@ -103,8 +103,8 @@ Analyzes and segments Spotify songs by genre using audio features and clustering
 
 I'm open to internships, project collaboration and study groups.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinutasalagur)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinutasalagur017@gmail.com)
 ![Followers](https://img.shields.io/github/followers/vinutasalagur017-cmyk?style=for-the-badge&logo=github&color=3b82f6)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" width="100%"/># vinutasalagur017-cmyk-vinutasalagur017-cmyk
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" width="100%"/>
